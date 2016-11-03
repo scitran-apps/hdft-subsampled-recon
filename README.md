@@ -16,7 +16,7 @@ This **sample** code computes a transformation of multi-shell diffusion weighted
 
 ### Parameters
 * `spherical_harmonics_order`: The maximum order of spherical harmonics. Defaulted to `8`.
-* `mean_diffusion_length`		is the mean diffusion length for reconstruction of GQI matrix. Defaulted to `1.2`.
+* `mean_diffusion_length`: The mean diffusion length for reconstruction of GQI matrix. Defaulted to `1.2`.
 
 ### Output
 * `sh_filename`: 4D Spherical Harmonic coefficient data.
