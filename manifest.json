@@ -1,6 +1,6 @@
 {
 	"name": "hdft-subsampled-recon",
-	"label": "HDFT subsampled Diffusion Reconstruction",
+	"label": "HDFT Subsampled Diffusion Reconstruction",
 	"description": "Computes a transformation of multi-shell diffusion weighted data to a set of Spherical Harmonic coefficients and outputs 4D Spherical Harmonic coefficient data. This is a first step in the Schneider Lab HDFT diffusion reconstruction process. See: Pathak, S. K., Fissell, C., Krishnaswamy, D., Aggarwal, S., Hachey, R., Schneider, W. (2015). Diffusion reconstruction by combining spherical harmonics and generalized q-sampling imaging. ISMRM, Toronto, Canada.",
 	"maintainer": "Michael Perry <lmperry@stanford.edu>",
 	"author": "Schneider Lab, University of Pittsburgh",
